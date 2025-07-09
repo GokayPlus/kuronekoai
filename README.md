@@ -71,6 +71,7 @@ Activate the venv and start the app:
 # On Windows (PowerShell)
 .\venv\Scripts\Activate
 
+
 # Open another terminal tab and go to \models\
 cd xx\kuronekoai\models\text-generation-webui
 # Start server with this command.
@@ -79,6 +80,18 @@ py server.py --model OpenChat --model-dir models --loader llama --api
 # Go to \webui\
 cd xx\kuronekoai\webui
 py kuroneko_chat_ui.py
+--
+# On Linux / macOS (Terminal)
+source venv/bin/activate
+
+# Open another terminal tab and go to /models/
+cd /path/to/kuronekoai/models/text-generation-webui
+# Start server with this command
+python3 server.py --model OpenChat --model-dir models --loader llama --api
+
+# Go to /webui/
+cd /path/to/kuronekoai/webui
+python3 kuroneko_chat_ui.py
 ```
 
 Then open the local Gradio interface (URL shown in terminal) to chat or use img2img.
