@@ -121,4 +121,4 @@ I want to make it fully free it but it's my first project so if you use it on an
 Feel free to explore, fork, adapt—and enjoy learning with it!
 
 ![image-removebg-preview(9)_cropped(3)](https://github.com/user-attachments/assets/8bccb6e2-d0d8-4de7-b33f-ca0a485ca5fa)
-by the people, for the people!
+made by people, for the people!
