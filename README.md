@@ -1,5 +1,5 @@
 # Kuroneko
-**Kuroneko** is a personal hobby project created for learning and experimentation purposes. So you can see it says nya~ at the every sentence. You can upgrade it via other chat models or [feeding with picture models](https://civitai.com/models].
+**Kuroneko** is a personal hobby project created for learning and experimentation purposes. So you can see it says nya~ at the every sentence. You can upgrade it via other chat models or [feeding with picture models](https://civitai.com/models).
 
 It’s a customizable AI assistant combining:
 
