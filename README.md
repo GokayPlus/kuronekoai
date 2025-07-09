@@ -61,7 +61,7 @@ To use CUDA acceleration:
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
-If you don't have a NVIDIA GPU, Kuroneko will still work using CPU — just slower.
+If you don't have a GPU, Kuroneko will still work using CPU — just slower.
 ---
 
 ## 🚀 Running
