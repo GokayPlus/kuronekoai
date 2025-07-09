@@ -18,7 +18,7 @@ This project is **not actively maintained**, and it is **not intended for produc
 It was developed as a hobby to explore AI, local LLMs, image generation, and privacy-first interfaces.
 There will be **no** regular updates or ongoing support.
 
-I didn't setup Whisper model but if you want you can set it up.
+I didn't setup Whisper model but if you want you can set it up. - 
 It has memory problems. It doesn't remember previous message(s).
 
 ---
@@ -48,6 +48,19 @@ kuronekoai/
 └── <and the other files came from clone>
 ```
 
+### ⚙️ GPU Acceleration (Optional)
+
+Kuroneko can take advantage of NVIDIA GPUs if available.
+
+To use CUDA acceleration:
+1. Make sure you have an NVIDIA GPU
+2. Install latest drivers and CUDA (11.8+ recommended)
+3. Use PyTorch with CUDA support:
+
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+If you don't have a GPU, Kuroneko will still work using CPU — just slower.
 ---
 
 ## 🚀 Running
@@ -84,7 +97,7 @@ Then open the local Gradio interface (URL shown in terminal) to chat or use img2
 
 ## 📄 License
 
-gpl-3.0
+GPL-3.0 |
 I want to make full free it but it's my first project so if you use it on any project please give my project's name.
 
 
