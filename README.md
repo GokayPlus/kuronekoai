@@ -1,5 +1,5 @@
 # Kuroneko
-**Kuroneko** is a personal hobby project created for learning and experimentation purposes. So you can see it says nya~ at the every sentence.
+**Kuroneko** is a personal hobby project created for learning and experimentation purposes. So you can see it says nya~ at the every sentence. You can upgrade it via other chat models or [feeding with picture models](https://civitai.com/models].
 
 It’s a customizable AI assistant combining:
 
@@ -37,7 +37,7 @@ To run Kuroneko on your own device, you'll need:
   Download and extract into the project root:
 
   👉 [Hugging Face – kuronekoassets](https://huggingface.co/CanPlus/kuronekoassets/tree/main)
-  (Includes `models.zip` and `venv.zip`)
+  (Download `models.zip` and `venv.zip`.)
 
 After extraction, your structure should look like:
 
