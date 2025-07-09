@@ -33,7 +33,7 @@ To run Kuroneko on your own device, you'll need:
   git clone https://github.com/GokayPlus/kuronekoai.git
   ```
 
-* **Required large files, you don't have to use my files, but I recommend them because I used them when learning.(models + virtual environment)**
+* **Required large files, you don't have to use my files, but I recommend them because I used them when learning. (models + virtual environment)**
   Download and extract into the project root:
 
   👉 [Hugging Face – kuronekoassets](https://huggingface.co/CanPlus/kuronekoassets/tree/main)
