@@ -18,7 +18,7 @@ This project is **not actively maintained**, and it is **not intended for produc
 It was developed as a hobby to explore AI, local LLMs, image generation, and privacy-first interfaces.
 There will be **no** regular updates or ongoing support.
 
-I didn't setup Whisper model but if you want set it up.
+I didn't setup Whisper model but if you want you can set it up.
 It has memory problems. It doesn't remember previous message(s).
 
 ---
