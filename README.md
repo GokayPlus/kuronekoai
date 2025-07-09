@@ -3,7 +3,7 @@
 
 It’s a customizable AI assistant combining:
 
-- 🧠 **Chat system** powered by [OpenChat 3.5](https://huggingface.co/TheBloke/OpenChat-3.5-GGUF) (GGUF format, runs locally via llama.cpp),
+- 🧠 **Chat system** powered by [OpenChat 3.5](https://huggingface.co/openchat/openchat_3.5) (GGUF format, runs locally via llama.cpp),
 - 🧾 **Language understanding layer** using [Google's Flan-T5-Small](https://huggingface.co/google/flan-t5-small) for zero-shot intent recognition,
 - 🖼️ **Image editing pipeline** built with [Stable Diffusion](https://github.com/CompVis/stable-diffusion) (img2img mode via Diffusers),
 - 🌐 Optional online extensions (e.g., translations or internet search),
