@@ -54,8 +54,8 @@ Kuroneko can take advantage of NVIDIA GPUs if available.
 
 To use CUDA acceleration:
 1. Make sure you have an NVIDIA GPU
-2. Install latest drivers and CUDA (11.8+ recommended)
-3. Use PyTorch with CUDA support:
+2. [Install latest drivers](https://www.nvidia.com/download/index.aspx/) and [CUDA](https://developer.nvidia.com/cuda-downloads) (11.8+ recommended)
+3. Use [PyTorch](https://pytorch.org/get-started/locally/) with [CUDA](https://developer.nvidia.com/cuda-downloads) support:
 
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
