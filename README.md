@@ -45,7 +45,7 @@ After extraction, your structure should look like:
 kuronekoai/
 ├── models/        ← contains model files
 ├── venv/          ← contains virtual environment
-└── <and the other files came from clone>
+└── <including the files cloned from the repo>
 ```
 
 ### ⚙️ GPU Acceleration (Optional)
@@ -111,7 +111,7 @@ Then open the local Gradio interface (URL shown in terminal) to chat or use img2
 ## 📄 License
 
 GPL-3.0 |
-I want to make it fully free it but it's my first project so if you use it on any project please give credit to the project by name.
+I want to make it fully free it but it's my first project so if you use it on any project, please give credit to the project by name.
 
 
 ---
