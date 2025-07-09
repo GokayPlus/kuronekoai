@@ -85,12 +85,12 @@ py kuroneko_chat_ui.py
 source venv/bin/activate
 
 # Open another terminal tab and go to /models/
-cd /path/to/kuronekoai/models/text-generation-webui
+cd /xx/kuronekoai/models/text-generation-webui
 # Start server with this command
 python3 server.py --model OpenChat --model-dir models --loader llama --api
 
 # Go to /webui/
-cd /path/to/kuronekoai/webui
+cd /xx/kuronekoai/webui
 python3 kuroneko_chat_ui.py
 ```
 
