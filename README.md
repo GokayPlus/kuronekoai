@@ -1,5 +1,5 @@
 # Kuroneko
-**Kuroneko** is a personal hobby project created for learning and experimentation purposes. So you can see it says nya~ at the every sentence. You can upgrade it via other chat models or [feeding with picture models](https://civitai.com/models).
+**Kuroneko** is a personal hobby project created for learning and experimentation purposes. It says 'nya~' at the end of every sentence. You can upgrade it via other chat models or [or enhance it with image models.](https://civitai.com/models).
 
 It’s a customizable AI assistant combining:
 
@@ -98,7 +98,7 @@ Then open the local Gradio interface (URL shown in terminal) to chat or use img2
 ## 📄 License
 
 GPL-3.0 |
-I want to make full free it but it's my first project so if you use it on any project please give my project's name.
+I want to make it fully free it but it's my first project so if you use it on any project please give credit to the project by name.
 
 
 ---
