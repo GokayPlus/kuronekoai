@@ -1,3 +1,4 @@
+![image-removebg-preview(9)_cropped(3)](https://github.com/user-attachments/assets/8bccb6e2-d0d8-4de7-b33f-ca0a485ca5fa)
 # Kuroneko
 **Kuroneko** is a personal hobby project created for learning and experimentation purposes. It says 'nya~' at the end of every sentence. You can upgrade it via other chat models or [enhance it with image models](https://civitai.com/models).
 
@@ -118,3 +119,6 @@ I want to make it fully free it but it's my first project so if you use it on an
 
 📚 **This is a personal, educational project.**
 Feel free to explore, fork, adapt—and enjoy learning with it!
+
+![image-removebg-preview(9)_cropped(3)](https://github.com/user-attachments/assets/8bccb6e2-d0d8-4de7-b33f-ca0a485ca5fa)
+by the people, for the people!
