@@ -1,6 +1,6 @@
 ![image-removebg-preview(9)_cropped(3)](https://github.com/user-attachments/assets/8bccb6e2-d0d8-4de7-b33f-ca0a485ca5fa)
 # Kuroneko
-**Kuroneko** is a personal hobby project created for learning and experimentation purposes. It says 'nya~' at the end of every sentence. You can upgrade it via other chat models or [enhance it with image models](https://civitai.com/models).
+**Kuroneko** is a personal hobby project created for learning and experimentation purposes. You can see it says 'nya~' at every sentence. You can upgrade it via other chat models or [enhance it with image models](https://civitai.com/models).
 
 It’s a customizable AI assistant combining:
 
@@ -55,7 +55,7 @@ Kuroneko can take advantage of NVIDIA GPUs if available.
 
 To use CUDA acceleration:
 1. Make sure you have an NVIDIA GPU
-2. [Install latest drivers](https://www.nvidia.com/download/index.aspx/) and [CUDA](https://developer.nvidia.com/cuda-downloads) (11.8+ recommended)
+2. Install [latest drivers](https://www.nvidia.com/download/index.aspx/) and [CUDA](https://developer.nvidia.com/cuda-downloads) (11.8+ recommended)
 3. Use [PyTorch](https://pytorch.org/get-started/locally/) with [CUDA](https://developer.nvidia.com/cuda-downloads) support:
 
 ```bash
@@ -94,9 +94,9 @@ python3 server.py --model OpenChat --model-dir models --loader llama --api
 cd /xx/kuronekoai/webui
 python3 kuroneko_chat_ui.py
 ```
-
 Then open the local Gradio interface (URL shown in terminal) to chat or use img2img.
 
+If you want to change Kuroneko's character, you can edit models/text-generation-webui/user_data/characters' folder files.
 ---
 
 ## 🛠️ Tech Stack
