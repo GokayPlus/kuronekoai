@@ -46,7 +46,7 @@ After extraction, your structure should look like:
 kuronekoai/
 ├── models/        ← contains model files
 ├── venv/          ← contains virtual environment
-└── <including the files cloned from the repo>
+└── <other files cloned from the repo>
 ```
 
 If you want to change Kuroneko's character, you can edit models/text-generation-webui/user_data/characters' folder files.
