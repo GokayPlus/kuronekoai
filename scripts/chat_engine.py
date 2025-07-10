@@ -17,7 +17,7 @@ def ask_ai(message):
     # 2. OpenChat'e gönderilir
     payload = {
         "prompt": translated_input,
-        "max_tokens": 500,
+        "max_tokens": 3000,
         "temperature": 0.7,
         "stop": ["<|end|>"]
     }
