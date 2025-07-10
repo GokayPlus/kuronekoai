@@ -49,6 +49,8 @@ kuronekoai/
 └── <including the files cloned from the repo>
 ```
 
+If you want to change Kuroneko's character, you can edit models/text-generation-webui/user_data/characters' folder files.
+
 ### ⚙️ GPU Acceleration (Optional)
 
 Kuroneko can take advantage of NVIDIA GPUs if available.
@@ -96,7 +98,6 @@ python3 kuroneko_chat_ui.py
 ```
 Then open the local Gradio interface (URL shown in terminal) to chat or use img2img.
 
-If you want to change Kuroneko's character, you can edit models/text-generation-webui/user_data/characters' folder files.
 ---
 
 ## 🛠️ Tech Stack
