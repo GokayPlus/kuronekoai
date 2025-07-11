@@ -28,7 +28,7 @@ It has memory problems. It doesn't remember previous message(s).
 
 To run Kuroneko on your own device, you'll need:
 
-* Download [Visual Studio](https://visualstudio.microsoft.com) and [C++ Compiler for VS](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+* Installed [Visual Studio](https://visualstudio.microsoft.com) and [C++ Compiler for VS](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 * **Source code** from this GitHub repo - [git clone is requiring Git](https://git-scm.com/downloads)  
 
   ```bash
