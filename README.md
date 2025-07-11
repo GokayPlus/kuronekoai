@@ -73,8 +73,8 @@ Activate the venv and start the app:
 
 ```bash
 # On Windows (PowerShell)
-python -m venv .venv
-.\.venv\Scripts\Activate
+python -m venv venv
+.\venv\Scripts\Activate
 
 
 # Go to \models\
@@ -87,8 +87,8 @@ cd xx\kuronekoai\webui
 py kuroneko_chat_ui.py
 --
 # On Linux / macOS (Terminal)
-python -m venv .venv
-source .venv/bin/activate
+python -m venv venv
+source venv/bin/activate
 
 # Open another terminal tab and go to /models/
 cd /xx/kuronekoai/models/text-generation-webui
