@@ -38,14 +38,14 @@ To run Kuroneko on your own device, you'll need:
   Download and extract into the project root:
 
   👉 [Hugging Face – kuronekoassets](https://huggingface.co/CanPlus/kuronekoassets/tree/main)
-  (Download `models.zip` and `venv.zip`.)
+  (Download `models.zip`.)
 
 After extraction, your structure should look like:
 
 ```
 kuronekoai/
 ├── models/        ← contains model files
-├── venv/          ← contains virtual environment
+├── venv/          ← contains virtual environment (this will be come after activating the venv.)
 └── <other files cloned from the repo>
 ```
 
