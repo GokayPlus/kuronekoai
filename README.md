@@ -76,12 +76,12 @@ Activate the venv and start the app:
 .\venv\Scripts\Activate
 
 
-# Open another terminal tab and go to \models\
+# Go to \models\
 cd xx\kuronekoai\models\text-generation-webui
 # Start server with this command.
 py server.py --model OpenChat --model-dir models --loader llama --api
 
-# Go to \webui\
+# Open another PS tab (start in venv too) and go to \webui\
 cd xx\kuronekoai\webui
 py kuroneko_chat_ui.py
 --
